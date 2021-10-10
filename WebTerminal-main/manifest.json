@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "name": "Web Terminal",
+    "description": "Terminal Theme Extension ! 7w44711 ;",
+    "version": "1.0.0",
+    "content_scripts": [
+        {
+            "matches" : ["*://www.google.com/*"],
+            "js": ["index.js"]
+        }
+    ],
+    "permissions" : [
+        "activeTab",
+        "tabs",
+        "<all_urls>"
+    ],
+    "icons": { 
+        "16": "icons/16.png",
+        "48": "icons/48.png",
+        "128": "icons/128.png"
+    },
+    "browser_action": {
+        "default_icon": "icons/icon.png",
+        "default_title": "Web Terminal"
+    }
+
+}
