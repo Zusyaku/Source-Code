@@ -1,0 +1,10 @@
+C:\Users\Worm\source\repos\Clutt4.5\Clutt4.5\bin\Debug\Clutt4.5.exe
+C:\Users\Worm\source\repos\Clutt4.5\Clutt4.5\bin\Debug\Clutt4.5.pdb
+C:\Users\Worm\source\repos\Clutt4.5\Clutt4.5\obj\Debug\Clutt4._5.Clutt4_5.resources
+C:\Users\Worm\source\repos\Clutt4.5\Clutt4.5\obj\Debug\Clutt4._5.warn.resources
+C:\Users\Worm\source\repos\Clutt4.5\Clutt4.5\obj\Debug\Clutt4._5.Properties.Resources.resources
+C:\Users\Worm\source\repos\Clutt4.5\Clutt4.5\obj\Debug\Clutt4.5.csproj.GenerateResource.cache
+C:\Users\Worm\source\repos\Clutt4.5\Clutt4.5\obj\Debug\Clutt4.5.csproj.CoreCompileInputs.cache
+C:\Users\Worm\source\repos\Clutt4.5\Clutt4.5\obj\Debug\Clutt4.5.exe
+C:\Users\Worm\source\repos\Clutt4.5\Clutt4.5\obj\Debug\Clutt4.5.pdb
+C:\Users\Worm\source\repos\Clutt4.5\Clutt4.5\obj\Debug\Clutt4.5.csprojAssemblyReference.cache
